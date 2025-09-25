@@ -1,0 +1,15 @@
+{
+  "name": "bardy-demo",
+  "version": "1.0.0",
+  "description": "Bardy demo ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["Bardy"],
+  "author": "Your Name",
+  "license": "MIT"
+}
